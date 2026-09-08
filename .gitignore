@@ -1,0 +1,5 @@
+# Ignore PDF files in all directories, regardless of extension case.
+*.[pP][dD][fF]
+.codex/
+.claude/
+.agents/
