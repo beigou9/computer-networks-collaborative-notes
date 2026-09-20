@@ -7,7 +7,6 @@
     sidebar: false,
     book: false,
 )
-#set text(font: ("Times New Roman", "Noto Sans CJK SC", "Source Han Sans SC"))
 
 = 物理层
 
